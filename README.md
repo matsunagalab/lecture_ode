@@ -12,5 +12,4 @@ Notes on computational methods for ordinary differential equations
        PowerPointとのリンク、データとのリンク
 - 第X回 N-body 1 距離の効率的な計算方法
 - 第X回 N-body 2 力の計算など
-- 第X回 N-body 1 距離の効率的な計算方法
 
