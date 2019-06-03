@@ -9,7 +9,7 @@ Notes on computational methods for ordinary differential equations
 - 第X回 パラメータFeedbackの実装 Basic
 - 第X回 パラメータFeedbackの実装 Advanced
 - 第X回 IO/Figures(画像とデータの対応) ワークスペースの保存
-       PowerPointとのリンク、データとのリンク
+       PowerPointとのリンク、データとのリンク、日々のワークフロー
 - 第X回 N-body 1 距離の効率的な計算方法
 - 第X回 N-body 2 力の計算など
 
